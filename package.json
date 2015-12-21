@@ -18,5 +18,8 @@
   "homepage": "https://github.com/tamaracha/swagger-loader#readme",
   "peerDependencies": {
     "swagger-js-codegen": "*"
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.12"
   }
 }
