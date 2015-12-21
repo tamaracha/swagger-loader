@@ -1,6 +1,6 @@
 {
   "name": "swagger-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Loads a swagger spec and returns a client module via swagger-js-codegen",
   "main": "index.js",
   "scripts": {
